@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #0C7B48;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
